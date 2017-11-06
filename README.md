@@ -9,6 +9,16 @@ The application has been developed at the Geovisulization laboratory of Bochum U
 The application is open to anyone who is interested. You are very welcome to participate or to bring in innovative visualization ideas! 
 
 
+## Getting started...
+
+As a developer, you might want to follow these steps:
+
+1. Clone the existing GitHub repository https://github.com/bogeo/wanderingspot.git on your machine.
+2. Start up your Java development environment (e.g. Eclipse).
+3. When setting up your Java project, let the source path point to the /src folder. 
+4. Customize your personal configuration by cloning the WanderingSpotApp and enjoy the yourLivingThing.justLive() method call! 
+
+
 ## License information
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU GENERAL PUBLIC LICENSE Version 2.
